@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708868020629",
+    "project_id": "nmedia-bd874",
+    "storage_bucket": "nmedia-bd874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708868020629:android:1d019f7b99130a2230be9c",
+        "android_client_info": {
+          "package_name": "ru.darek.nmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708868020629-2emvmjj7v9chgfiooc10p7ispu032sea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABR47RWXFqyQ3dXsEJC5XWXbHc9zFYJRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708868020629-2emvmjj7v9chgfiooc10p7ispu032sea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
